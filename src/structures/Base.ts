@@ -1,4 +1,4 @@
-import * as eris from '@dyno.gg/eris';
+import * as eris from 'eris';
 import axios from 'axios';
 import Resolver from '../utils/Resolver';
 import Command from './Command';
