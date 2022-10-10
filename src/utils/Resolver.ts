@@ -1,4 +1,4 @@
-import * as eris from '@dyno.gg/eris';
+import * as eris from 'eris';
 import Utils from './Utils';
 
 const utils = new Utils();
