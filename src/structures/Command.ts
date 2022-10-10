@@ -1,4 +1,4 @@
-import * as eris from '@dyno.gg/eris';
+import * as eris from 'eris';
 import Base from './Base';
 import CommandData from './CommandData';
 import SubCommand from './SubCommand';
