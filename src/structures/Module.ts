@@ -1,4 +1,4 @@
-import * as eris from '@dyno.gg/eris';
+import * as eris from 'eris';
 import * as dyno from 'Dyno';
 import * as schedule from 'node-schedule';
 import Base from './Base';
