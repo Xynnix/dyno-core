@@ -1,4 +1,4 @@
-import * as eris from '@dyno.gg/eris';
+import * as eris from 'eris';
 import * as bluebird from 'bluebird';
 import * as crypto from 'crypto';
 import * as fslib from 'fs';
